@@ -5,7 +5,7 @@
 <tr>
 <td width="230" align="center" valign="middle">
 <img src="https://insmac.org/uploads/posts/2023-06/project_office_x.png" width="200"><br>
-<a href="https://mac-share-apps.github.io/.github/project-office-pro">
+<a href="https://ysids-apps-hub.github.io/.github/project-office-pro">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
 <div align="center">
